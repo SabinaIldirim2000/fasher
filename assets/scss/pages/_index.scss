@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    background-color: red;
+    .containerTop{background-color: blue;
+        justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 91%;
+    margin: auto    ;
+
+  
+        .icons{
+background-color: aqua;
+gap: 15px ;
+display: flex;
+color: rgb(136, 136, 136);
+font-weight: 400;
+line-height: 18px;
+size: 18px;
+
+
+        }
+        .text{
+            background-color: green;
+          span{
+            font-size: 13px;
+                font-weight: 400;
+                color: 
+                rgb(136, 136, 136);
+                line-height: 22px;
+
+          }}
+          .right{
+            background-color: pink;
+            span{
+                font-size: 13px;
+                font-weight: 400;
+                color: 
+                rgb(136, 136, 136);
+                line-height: 22px;
+            }
+          }
+           
+    }
+}
